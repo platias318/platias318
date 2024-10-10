@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @platias318
 - 👀 I’m interested in software Developing and solving problems
-- 🌱 I’m a Computer Sciense graduate in Athens University of Economics and Business
+- 🌱 I’m a Computer Science graduate in Athens University of Economics and Business
 - 📫 How to reach me Gmail: platiaskostas318@gmail.com
 
 <!---
