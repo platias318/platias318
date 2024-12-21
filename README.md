@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @platias318
 - 👀 I’m interested in software Developing and solving problems
+- I am an intern software developer in TeamViewer, Ioannina working both on front end and back end projects
 - 🌱 I have a BSc in Computer Science from Athens University of Economics and Business
 - 📫 How to reach me Gmail: platiaskostas318@gmail.com
 - [My LinkedIn profile link](https://www.linkedin.com/in/konstantinos-platias-310a65252/)
